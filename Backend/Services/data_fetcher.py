@@ -55,7 +55,6 @@ relevant_data = relevant_data.round(2)
 # -------------------
 relevant_data.to_csv("data_gspc.txt", sep="\t")
 print("✅ Week 1 stock analyzer complete. Data saved to data_gspc.txt")
-
 # -------------------
 # STEP 5: (Optional Preview & Plot)
 # -------------------
